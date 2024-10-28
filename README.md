@@ -1,5 +1,5 @@
 <h1>SM Presentation</h1>
-<h3> Kolmogrov Smirnov Test</h3>
+<h3> Kolmogorov Smirnov Test</h3>
 
 
 <h4>Ammar Hussnain Raza (20SW015)</h4>
